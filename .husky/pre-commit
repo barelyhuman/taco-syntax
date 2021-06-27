@@ -1,0 +1,5 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+commitlog -skip > CHANGELOG.md
+git add .

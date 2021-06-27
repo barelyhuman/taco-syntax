@@ -1,0 +1,33 @@
+{
+	"name": "taco-syntax",
+	"displayName": "Taco Syntax",
+	"description": "Theme based on the Taco Syntax",
+	"version": "0.0.0",
+	"publisher": "barelyreaper",
+	"icon": "assets/icon.png",
+	"repository": "https://github.com/barelyhuman/taco-syntax",
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Taco Syntax",
+				"uiTheme": "vs-dark",
+				"path": "./themes/taco-syntax-dark.json"
+			}
+		]
+	},
+	"lint-staged": {
+		"*": "commitlog -skip > CHANGELOG.md"
+	},
+	"scripts": {
+		"prepare": "husky install"
+	},
+	"devDependencies": {
+		"husky": "^6.0.0"
+	}
+}
