@@ -19,3 +19,23 @@ Look for `barelyreaper.taco-syntax` or just `Taco Syntax` on the the marketplace
 <p align="center">
     <img src="assets/preview-dark.png"/>
 </p>
+
+The screenshot above uses the following settings 
+```jsonc
+{
+  "workbench.iconTheme": "quill-icons-minimal",
+  "workbench.productIconTheme": "icons-carbon",
+  "editor.renderIndentGuides": false,
+  "editor.renderWhitespace": "none",
+  "editor.minimap.renderCharacters": false,
+  "workbench.colorTheme": "Taco Syntax",
+  "workbench.startupEditor": "none",
+  "workbench.sideBar.location": "right",
+
+  // Font Settings
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "Menlo",
+  "editor.fontSize": 13.5,
+  "editor.fontFamily": "Menlo",
+}
+```
