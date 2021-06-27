@@ -6,6 +6,10 @@
 A Flat theme with the taco syntax theme
 </p>
 
+## Swatch
+
+<img src="assets/Dots.png" height=220 /> 
+
 
 ## Installation 
 Look for `barelyreaper.taco-syntax` or just `Taco Syntax` on the the marketplace to install it.
@@ -13,5 +17,5 @@ Look for `barelyreaper.taco-syntax` or just `Taco Syntax` on the the marketplace
 
 ## Screenshots
 <p align="center">
-    <img src="/assets/preview-dark.png"/>
+    <img src="assets/preview-dark.png"/>
 </p>
