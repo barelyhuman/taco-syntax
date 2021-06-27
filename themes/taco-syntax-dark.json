@@ -1868,7 +1868,7 @@
     "list.activeSelectionForeground": "#212529",
     "tree.indentGuidesStroke": "#58585800",
     "list.dropBackground": "#343a40",
-    "list.highlightForeground": "#212529",
+    "list.highlightForeground": "#FFEC99",
     "list.focusBackground": "#ffd43b",
     "list.focusForeground": "#212529",
     "listFilterWidget.background": "#343a40",
