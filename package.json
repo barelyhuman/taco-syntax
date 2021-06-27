@@ -2,7 +2,7 @@
 	"name": "taco-syntax",
 	"displayName": "Taco Syntax",
 	"description": "Theme based on the Taco Syntax",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"publisher": "barelyreaper",
 	"icon": "assets/icon.png",
 	"repository": "https://github.com/barelyhuman/taco-syntax",
