@@ -3,7 +3,7 @@
 </p>
 <h1  align="center">Taco Syntax</h1>
 <p align="center">
-A Flat theme with the taco syntax theme
+A Flat theme with the taco color scheme
 </p>
 
 ## Swatch
