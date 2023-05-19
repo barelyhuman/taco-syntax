@@ -1960,6 +1960,7 @@
     "editorSuggestWidget.foreground": "#E9ECEF",
     "editorSuggestWidget.highlightForeground": "#FFEC99",
     "editorSuggestWidget.selectedBackground": "#FFD43B",
+    "editorSuggestWidget.selectedForeground": "#181819",
     "editorHoverWidget.foreground": "#e9ecef",
     "editorHoverWidget.background": "#212529",
     "editorHoverWidget.border": "#343a40",
@@ -2002,6 +2003,8 @@
     "breadcrumb.activeSelectionForeground": "#ffd43b",
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#212529",
-    "debugExceptionWidget.border": "#343a40"
+    "debugExceptionWidget.border": "#343a40",
+    "quickInputList.focusBackground": "#181817",
+    "quickInputList.focusForeground": "#FFD43B"
   }
 }
